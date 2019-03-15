@@ -1,0 +1,8 @@
+# ignore jupyter checkpoints
+.ipynb_checkpoints
+
+# ignore txt files with lyrics/chords
+*.txt
+
+# ignore OS X folder attributes file
+.DS_Store
